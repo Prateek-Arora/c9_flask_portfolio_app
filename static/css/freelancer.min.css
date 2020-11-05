@@ -9,3 +9,14 @@ div#background-div{
     background-size: cover;
     height: 550px;
 }
+
+@media (max-width: 767px) {
+    div#background-div {
+      padding: 15px 250px;
+      width: 100%;
+    }
+    .intro-text {
+        margin-left: 100px;
+        width: 100%;
+    }
+  }
