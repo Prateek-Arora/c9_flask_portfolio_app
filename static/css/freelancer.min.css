@@ -12,6 +12,7 @@ div#background-div{
 
 @media (max-width: 767px) {
     div#background-div {
+        background-color: black;
       padding: 15px 250px;
       width: 100%;
     }
